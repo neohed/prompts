@@ -1,0 +1,5 @@
+Based on my profile, please rank these jobs based on
+how closely they align with my skills and qualifications.
+For each job, provide a rating out of 5, along with a brief
+explanation detailing the match between the role's
+requirements and my profile.

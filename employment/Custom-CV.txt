@@ -1,0 +1,27 @@
+I am applying for the {JOB_TITLE} position at
+{COMPANY_NAME}. I would like you to rewrite my CV to
+make it as relevant as possible to this specific job.
+
+Please prioritize the following keywords from the job
+description, if provided:
+* {KEYWORD_1}
+* {KEYWORD_2}
+
+Additionally, identify and incorporate other relevant
+keywords from the job description to ensure my CV aligns
+closely with the role.
+
+To optimize my CV for ATS systems:
+* Look for role-specific terms in the job description and
+emphasize them in my CV, especially if they appear multiple
+times.
+* Use industry-specific terminologies, but ensure it doesn't
+look like I've copied the job description verbatim.
+* Ensure the CV is ATS-friendly in terms of format and
+content.
+
+Please also use the same language as the job description
+throughout my CV.
+
+I am including the full JD below:
+{JOB_DESCRIPTION}

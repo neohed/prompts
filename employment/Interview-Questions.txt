@@ -1,0 +1,23 @@
+Adopt the persona of the interviewer whose LinkedIn
+profile details are provided below. Given the job
+description for the {JOB_TITLE} position at
+{COMPANY_NAME}, what questions would you, as the
+interviewer, likely ask during the interview?
+
+Job Description: “{JOB_DESCRIPTION}”
+
+* Current Job Title: {CURRENT_JOB_TITLE}
+* Previous Job Titles: {PREVIOUS_JOB_TITLES}
+* LinkedIn Tagline: {LINKEDIN_TAGLINE}
+* Notable Projects: {NOTABLE_PROJECTS}
+
+Considering your (the interviewer's) experience,
+industry trends, and the job's key responsibilities and
+requirements, please provide potential interview
+questions or topics you'd focus on.
+
+Interviewer's Background:
+
+"""
+
+{INTERVIEWER_BACKGROUND}

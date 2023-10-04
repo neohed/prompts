@@ -1,0 +1,17 @@
+Using the provided CV contents, please format and
+structure the information in a manner that is clear,
+professional, and optimized for Applicant Tracking
+Systems (ATS). Ensure that the layout is easily
+readable, keywords relevant to the industry are
+emphasized, and all content is organized in a logical
+manner.
+
+Note: Prioritize standard headings like 'Education',
+'Experience', 'Skills', and avoid using non-standard
+formatting that might not be ATS-friendly.
+
+CV contents:
+
+"""
+
+{CV_CONTENTS}

@@ -1,0 +1,12 @@
+Based on the information provided, please
+identify 7 compelling reasons why I would be
+interested in joining {COMPANY}:
+
+* Position I'm Considering: {JOB_TITLE}
+* Role Overview: “{JOB_DESCRIPTION}”
+
+CV contents:
+
+"""
+
+{CV_CONTENTS}

@@ -1,0 +1,20 @@
+Using the information from my CV provided below and
+the specific details from the job description
+`{JOB_DESCRIPTION}`, please craft multiple
+compelling opening lines for a job application email.
+
+Each line should:
+- Directly relate to the position being applied for,
+showcasing relevance.
+- Express genuine enthusiasm for the role and the
+company.
+- Be concise and to the point.
+- Maintain a professional tone.
+- Offer a unique perspective or highlight that
+distinguishes the candidate from others.
+
+CV contents:
+
+"""
+
+{CV_CONTENTS}

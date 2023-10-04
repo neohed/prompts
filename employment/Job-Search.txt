@@ -1,0 +1,17 @@
+I am actively seeking a position as a {JOB_ROLE}. I have
+{NUMBER} years experience. I have the following
+qualifications and skills:
+
+* Academic Qualifications:
+- {CERTIFICATION} in {FIELD}
+- {CERTIFICATION} in {FIELD}
+
+* Professional Skills:
+- {SKILL} with {DETAILS}
+- {SKILL} with {DETAILS}
+
+I'd like to work in locations: {LOCATIONS}, {COUNTRY}.
+
+Please provide a list of direct hiring companies
+(excluding any agencies) that have current openings
+matching my profile.

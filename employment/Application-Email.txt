@@ -1,0 +1,24 @@
+Please craft a job application email for {COMPANY} for
+the {JOB_TITLE} position based on the following:
+* Job Description: “{JOB_DESCRIPTION}”
+
+In the email, please include the following:
+
+* Your experience in the field, highlighting your key
+skills.
+* Why you are interested in this position and what you
+hope to achieve.
+* A brief overview of your previous roles, including your
+responsibilities and a notable accomplishment.
+* Your work ethic and qualities, such as teamwork and
+independence.
+* Your eagerness to discuss the role further and your
+availability for an interview.
+* Mention that your CV is attached.
+Please tailor your email to the specific role and
+company.
+
+CV contents:
+"""
+
+{CV_CONTENTS}

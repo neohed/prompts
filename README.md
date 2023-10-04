@@ -1,3 +1,3 @@
 # Prompts for ChatGPT
 
-[Prompts For Jobseekers](./employment/README.md)
+[Prompts For Jobseekers](./employment/)

@@ -1,5 +1,9 @@
 # Prompts for ChatGPT
 
+These prompts are all in text files.
+1. Replace any placeholders, like {CV} or {SKILL}, with your information.
+2. Paste into ChatGPT or Bard and run.
+
 ## Prompts for Jobseekers
 
 * [Job Search](./employment/Job-Search.txt)

@@ -1,0 +1,20 @@
+I'm using the Feynman technique to learn about {SUBJECT}. I've summarized my understanding. Please provide feedback to help me identify any gaps or misconceptions in my knowledge.
+
+---
+
+My Explanation: {YOUR_EXPLANATION}
+
+---
+
+My Questions: {ALL_QUESTIONS_YOU_HAVE}
+
+---
+
+Feedback Request:
+
+Please review my explanation and questions. Answer the following:
+1. Conceptual Understanding: Do I accurately grasp the core concepts?
+2. Key Details: Have I included all the important details?
+3. Prerequisite Knowledge: Are there any gaps in my understanding that suggest I need to learn more about related topics?
+
+Feel free to address my questions directly, providing feedback on areas to improve.

@@ -7,7 +7,7 @@ These prompts are all in text files.
 ## Prompts for Education
 
 * [Feynman Technique to Learn any Topic](./education/feynman-technique.txt)
-* 
+
 ## Prompts for Jobseekers
 
 * [Job Search](./employment/Job-Search.txt)

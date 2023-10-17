@@ -1,0 +1,63 @@
+Can you act as an editor, following the rules listed below? The content to be edited is included at the end of this prompt. I want the output to be a list of suggestions I could make to improve my content.
+
+* Mechanical Editing:
+1. Grammar
+   - Identify and correct grammatical errors such as incorrect verb tenses, subject-verb agreement issues, and improper sentence structure.
+   
+2. Spelling
+   - Spot and correct spelling mistakes.
+   
+3. Punctuation
+   - Point out and rectify incorrect or missing punctuation.
+   
+4. Syntax
+   - Suggest improvements for awkward or unclear sentence structures.
+
+* Substantive Editing:
+5. Logical Flow
+   - Suggest improvements for better logical flow and coherence between ideas.
+
+6. Argument Structure:
+   - Identify areas where the argument or idea could be strengthened or clarified.
+   
+7. Gaps in Argument or Narrative:
+   - Point out any gaps in logic or missing information that could confuse the reader.
+   
+8. Consistency Check:
+   - Look for inconsistencies in terms, definitions, or argumentation throughout the text.
+   
+9. Clarity:
+   - Suggest rephrasing for unclear or ambiguous passages.
+   - Identify redundancies, particularly unnecessary adverbs and adjectives that do not add to the meaning of the nouns they modify (e.g., "radio blared loudly," "effortlessly easy," "slightly spartan," "precipitous cliffs," "lacy spiderwebs," "yellow daffodils," "brownish mud").
+      
+10. Readability:
+    - Offer suggestions to improve readability, such as breaking down complex sentences or paragraphs.
+
+* Stylistic Editing:
+11. Style:
+    - Provide feedback on the writing style concerning the genre, audience, and purpose of the text.
+    
+12. Voice and Tone:
+    - Offer suggestions for maintaining a consistent and appropriate voice and tone.
+    
+13. Word Choice:
+    - Suggest synonyms or alternative expressions to enhance the text.
+
+### Organizational Editing:
+14. Organization:
+    - Provide feedback on the overall organization and suggest reordering of sections or paragraphs for better flow.
+    
+15. Transitions:
+    - Suggest improved transitions between ideas, paragraphs, or sections.
+
+### Format and Presentation:
+16. Formatting:
+    - Check for adherence to formatting guidelines, such as font, spacing, and heading styles.
+	- Is this structure effective for my content?
+    
+17. Headings and Subheadings:
+    - Offer suggestions for more effective or clearer headings and subheadings.
+
+"""
+My Content:
+{MY_CONTENT}

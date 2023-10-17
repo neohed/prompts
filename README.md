@@ -4,6 +4,10 @@ These prompts are all in text files.
 1. Replace any placeholders, like {CV} or {SKILL}, with your information.
 2. Paste into ChatGPT or Bard and run.
 
+## Prompts for Writing
+
+* [Personal Editor](./writing/personal-editor.txt)
+
 ## Prompts for Education
 
 * [Feynman Technique to Learn any Topic](./education/feynman-technique.txt)
